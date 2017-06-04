@@ -1,0 +1,19 @@
+{
+  "name": "touch-the-number",
+  "version": "1.0.0",
+  "description": "Using a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klogpok/Touch-the-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klogpok/Touch-the-number/issues"
+  },
+  "homepage": "https://github.com/klogpok/Touch-the-number#readme"
+}

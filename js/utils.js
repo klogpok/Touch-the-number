@@ -37,3 +37,5 @@ function getRandomNumsMatrix(rows, cols) {
 function addOneTo(num){
     return num++;
 }
+
+console.log('Bubu');

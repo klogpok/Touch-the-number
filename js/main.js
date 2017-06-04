@@ -59,9 +59,6 @@ function cellClicked(elNum) {
             gNextNum++;
             updateNextNum();
         }
-
-        console.log(gNextNum);
-
     }
     
 }

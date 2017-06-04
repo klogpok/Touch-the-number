@@ -38,4 +38,3 @@ function addOneTo(num){
     return num++;
 }
 
-console.log('Bubu');

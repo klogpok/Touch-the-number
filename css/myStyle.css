@@ -6,3 +6,7 @@ td {
 .clicked {
     background-color: grey;
 }
+
+body{
+    color: lightblue;
+}

@@ -60,6 +60,8 @@ function cellClicked(elNum) {
             updateNextNum();
         }
 
+        console.log(gNextNum);
+
     }
     
 }

@@ -4,7 +4,7 @@ var gNextNum;
 var gTimePassed;
 var gSecsInterval;
 var gBaba;
-
+var gDadad;
 
 
 

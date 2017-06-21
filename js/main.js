@@ -3,8 +3,9 @@
 var gNextNum;
 var gTimePassed;
 var gSecsInterval;
-var gBabababa;
-cd
+var gBaba;
+
+
 function cleanBoard() {
     var tds = document.querySelectorAll('td.clicked');
     for (var i=0; i<tds.length; i++) {
